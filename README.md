@@ -1,5 +1,5 @@
 # Terraform Kubernetes App Deployment
-
+[LIVE DEMO](https://terraform-k8s-app.onrender.com)
 A beginner-friendly Terraform project that deploys a custom-styled Nginx application to a local Kubernetes cluster (Minikube).
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
@@ -70,3 +70,4 @@ To remove all resources created by this project:
 ```bash
 terraform destroy -auto-approve
 ```
+
